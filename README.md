@@ -1,1 +1,2 @@
-# BootDevGuidedProject1
+# BookBot
+BookBot is my first git project!
